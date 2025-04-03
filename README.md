@@ -1,21 +1,13 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Guihzzy)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70707&width=435&lines=guihzzy)](https://git.io/typing-svg)
 <p align="center">
   Sou um desenvolvedor Full-Stack, atualmente estudando programação e ansioso para expandir e aprofundar meus conhecimentos na área.
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guihzzy&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="Visualizações do perfil" />
-</p>
+</p> -->
 <!-- <p align="center">
     <img src="https://api.victims.lol/discord/user/discord-arts/408002057522380801/card?badges=a|https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png&badgesFrame=true&backgroundBrightness=0&moreBackgroundBlur=true" alt="Discord" width="600" height="200" />
 </p> -->
-
-## 🚀 Projetos
-
-### [Implementação](https://google.com)
-Implementar
-
-### [Implementação](https://google.com)
-Implementar
 
 ## 💻 Habilidades
 
