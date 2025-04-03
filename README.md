@@ -2,12 +2,6 @@
 <p align="center">
   Sou um desenvolvedor Full-Stack, atualmente estudando programação e ansioso para expandir e aprofundar meus conhecimentos na área.
 </p>
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guihzzy&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="Visualizações do perfil" />
-</p> -->
-<!-- <p align="center">
-    <img src="https://api.victims.lol/discord/user/discord-arts/408002057522380801/card?badges=a|https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png&badgesFrame=true&backgroundBrightness=0&moreBackgroundBlur=true" alt="Discord" width="600" height="200" />
-</p> -->
 
 ## 💻 Habilidades
 
@@ -22,8 +16,8 @@
 ### Linguagens & Tecnologias
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ### Backend & Infraestrutura
