@@ -35,10 +35,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=crynew&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Brunno" />
+        <img src="https://github-readme-stats.vercel.app/api?username=guihzzy&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=truehttps://github-readme-stats.vercel.app/api/top-langs/?username=guilhzzy&layout=compact&theme=default" alt="Estatísticas do GitHub de Guihzzy" />
       </td>
       <td>
-        <img width="200%" src="https://github-readme-stats.vercel.app/api/top-langs?username=crynew&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Linguagens Mais Usadas" />
+        <img width="200%" src="https://github-readme-stats.vercel.app/api/top-langs?username=guihzzy&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Linguagens Mais Usadas" />
       </td>
     </tr>
   </table>
