@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Olá,+eu+sou+o+Brunno+:D)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Guihzzy)](https://git.io/typing-svg)
 <p align="center">
   Sou um desenvolvedor Full-Stack, atualmente estudando programação e ansioso para expandir e aprofundar meus conhecimentos na área.
 </p>
