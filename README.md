@@ -52,11 +52,8 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/guihzzy">
-    <img src="https://api.wyzbots.com.br/github/guihzzy.svg" width="100%" />
-  </a>
+  <img src="https://api.wyzbots.com.br/github/guihzzy.svg" width="100%" />
 </div>
-
 
 ---
 
