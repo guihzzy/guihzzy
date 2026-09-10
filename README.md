@@ -52,7 +52,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guihzzy&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <a href="https://github.com/guihzzy">
+    <img src="https://api.wyzbots.com.br/github/guihzzy.svg" width="100%" />
+  </a>
 </div>
 
 
