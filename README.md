@@ -45,7 +45,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/408002057522380801">
-    <img src="https://api.wyzbots.com.br/discord/user/discord-arts/408002057522380801/card?badgesFrame=true&backgroundBrightness=40&moreBackgroundBlur=true" alt="Discord Status" width="100%" />
+    <img src="https://api.cee.bio/discord/user/discord-arts/408002057522380801/card?badgesFrame=true&backgroundBrightness=000&moreBackgroundBlur=true" alt="Discord Status" width="100%" />
   </a>
 </div>
 
