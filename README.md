@@ -31,12 +31,12 @@
 
 ---
 
-### Featured Project: [Wyzbots.com.br](https://wyzbots.com.br)
+### Featured Project: [wyzbots.com.br](https://wyzbots.com.br)
 
 > **A plataforma definitiva de Gestão e Automação para Discord.**
 > Um ecossistema completo com moderação avançada (AntiRaid, AutoMod), sistema de tickets, controle de tempo em call, histórico de cargos e um painel web moderno para gerenciar mais de 50 sistemas integrados.
 
-### Featured Project: [WyzFlix.lat](https://wyzflix.lat) 
+### Featured Project: [wyzFlix.lat](https://wyzflix.lat) 
 
 > Sua plataforma completa para assistir filmes, séries e animes. Um streaming moderno com um catálogo em constante atualização, interface rápida e intuitiva, reprodução em alta qualidade e acesso fácil aos seus conteúdos favoritos, tudo em um só lugar.
 
